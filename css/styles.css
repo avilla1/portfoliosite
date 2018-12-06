@@ -1,4 +1,4 @@
-// Stylin'
+
 html {
   scroll-behavior: smooth;
 }
@@ -93,7 +93,7 @@ textarea {
   justify-content: center;
 }
 
-// pure css lightbox experiment
+/* pure css lightbox experiment*/
 
 .lightbox {
 	/** Default lightbox to hidden */
