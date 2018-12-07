@@ -19,7 +19,8 @@ html {
 }
 
 h1,
-p {
+p, 
+figcaption {
   color: #fff;
   max-width: 75%;
   text-align: center;
@@ -38,7 +39,8 @@ h1 {
 p,
 input,
 textarea,
-button {
+button,
+figcaption {
   font-family: "Questrial", sans-serif;
   padding: 0.25%;
 }
